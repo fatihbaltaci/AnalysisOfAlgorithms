@@ -1,5 +1,5 @@
 # AnalysisOfAlgorithms
-Analyzing different algorithms and compare their running times. Algorithms are `Matrix multiplication`, `Finding maximum element`, `Bubble sort algorithm`, `Quick sort algorithm` and `Binary search algorithm`
+Analyzing different algorithms and compare their running times in ms. Algorithms are `Matrix Multiplication`, `Finding Maximum Element`, `Bubble Sort Algorithm`, `Quick Sort Algorithm` and `Binary Search Algorithm`
 
 
 
